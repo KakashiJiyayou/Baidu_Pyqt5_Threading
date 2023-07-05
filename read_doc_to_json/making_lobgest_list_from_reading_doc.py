@@ -2,7 +2,7 @@ import collections
 
 from markdown_to_json.markdown_to_json import Renderer, CMarkASTNester
 from markdown_to_json.vendor.CommonMark import CommonMark
-from read_doc_to_json.utilss import locate_file
+# from read_doc_to_json.utilss import locate_file
 from collections import  *
 import json
 
@@ -28,13 +28,14 @@ with open(file_name, encoding="utf-8") as file:
     file.close()
 
 value = json.loads(json.dumps(stringfield))
-print(" After converting ", value)
+# print(" After converting ", value)
 
 key = list(value.keys())[0]
 
-print("Key ", key)
-print("Source Item ", value.items())
-print("Source  for value '",key ,"' ==" ,value[key])
+# print("Key ", key)
+# print("Source Item ", value.items())
+# print("Source  for value '",key ,"' ==" ,value[key])
+print ( "Get first keys ", value[key].keys() )
 
 
 
@@ -57,6 +58,6 @@ def get_longest_path(source):
         return  result
 
 
-## do something here
-L_path = get_longest_path(value)
-print("Longest path ", L_path)
+# ## do something here
+# L_path = get_longest_path(value)
+# print("Longest path ", L_path)

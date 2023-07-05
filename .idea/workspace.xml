@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="" />
+    <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +26,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\read_doc_to_json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\from_excel_to_json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\directory\软件 安排 编辑\1.人员证书\市政工程师" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\directory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,5 +184,16 @@
       <updated>1687554530524</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

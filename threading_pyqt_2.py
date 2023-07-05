@@ -118,6 +118,7 @@ class MainWindow(QMainWindow):
         for n in range(0, 200):
             time.sleep(0.1)
             progress_callback.emit(n/2)
+            
 
         return "Done."
 
