@@ -57,6 +57,6 @@ def get_longest_path(source):
         return  result
 
 
-## do something here
-L_path = get_longest_path(value)
-print("Longest path ", L_path)
+# ## do something here
+# L_path = get_longest_path(value)
+# print("Longest path ", L_path)
