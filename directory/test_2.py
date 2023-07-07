@@ -11,5 +11,5 @@ def Test2(rootDir):
             print("Dir: ", path ,"  Name: ", lists  )
             Test2(path)
 
-path = r"/Users/mac/Documents/GitHub/Baidu_Pyqt5_Threading/directory/软件 安排 编辑"
+path = r"软件 安排 编辑"
 Test2(path)
