@@ -147,3 +147,8 @@ class MainWindow(QMainWindow):
 app = QApplication([])
 window = MainWindow()
 app.exec_()
+
+
+
+#/// just nothinhg
+qt_model = QStandardItemModel( )

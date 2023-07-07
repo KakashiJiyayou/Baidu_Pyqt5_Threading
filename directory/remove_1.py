@@ -8,9 +8,9 @@ print(" Current, Workig Directory ", cwd)
 files = glob.glob(cwd + "/rr")
 
 print(files)
-# os.chmod(cwd+"/rr",0o777)
-for root, dir, files in os.walk(cwd + "/rr"):
-    for name in file:
-        os.remove(os.path.join())
+for root, dirs, files in os.walk(cwd + "/rr"):
+    for name in files:
+        shutil.rmtree( os.path.join( root, name ) )
+    for name in dirs:
+        shutil.rmtree( os.path.join( root, name ) )
 
-# shutil.rmtree(cwd + "/rr/")
