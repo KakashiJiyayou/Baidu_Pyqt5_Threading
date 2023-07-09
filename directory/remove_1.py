@@ -5,7 +5,7 @@ import shutil
 cwd = os.path.dirname(os.path.abspath(__file__))
 
 print(" Current, Workig Directory ", cwd)
-files = glob.glob(cwd + "/rr")
+files = glob.glob("./rr")
 
 print(files)
 for root, dirs, files in os.walk(cwd + "/rr"):
