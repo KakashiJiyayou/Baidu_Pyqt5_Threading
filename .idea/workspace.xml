@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="" />
+    <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/subproccess/read_line_by_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subproccess/real_time_bypy_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subproccess/get_bypy_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/subproccess/get_bypy_list.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.get_bypy_list">
+  <component name="RunManager" selected="Python.real_time_bypy_test">
     <configuration name="get_bypy_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_doc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_line_by_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/read_doc_to_json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_doc_to_json/read_doc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/read_line_by_line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_doc2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="real_time_bypy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/read_doc_to_json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_doc_to_json/read_doc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/real_time_bypy_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.read_doc" />
-      <item itemvalue="Python.read_doc2" />
       <item itemvalue="Python.qprocess1" />
       <item itemvalue="Python.test_2" />
       <item itemvalue="Python.get_bypy_list" />
+      <item itemvalue="Python.read_line_by_line" />
+      <item itemvalue="Python.real_time_bypy_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.real_time_bypy_test" />
+        <item itemvalue="Python.read_line_by_line" />
         <item itemvalue="Python.get_bypy_list" />
         <item itemvalue="Python.test_2" />
         <item itemvalue="Python.qprocess1" />
-        <item itemvalue="Python.read_doc2" />
-        <item itemvalue="Python.read_doc" />
       </list>
     </recent_temporary>
   </component>
