@@ -24,7 +24,7 @@ class gui(QtWidgets.QMainWindow):
     def callProgram(self):
         # run the process
         # `start` takes the exec and a list of arguments
-        self.process.start('bypy upload E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\PyQTProcess_testing\\' )
+        self.process.start('bypy list' )
 
     def initUI(self):
         # Layout are better for placing widgets
