@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subproccess/newindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subproccess/pyqtapp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subproccess/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subproccess/trylogintoken.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subproccess/with_Qt_Thread/terminal_inppyqt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQTProcess_testing/qprocess1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQTProcess_testing/qprocess1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
