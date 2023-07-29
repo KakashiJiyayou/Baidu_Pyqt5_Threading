@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/Logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/dig1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/dig2_for_pass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/progressbar_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource_ui2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testupload1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threading_pyqt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threading_pyqt_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unzip2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unzip3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unzipfile1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unzipfile2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload_folder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/下水管道养护工/下水管道养护工 张明华.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/市政工程师/市政工程师 王占生.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/检测员/周浩.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/检测员/郭凯.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/2.业绩/1.新进公司业务合同.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/2.业绩/2.广强公司 业务合同.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/3.资质证书/1.营业执照.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/3.资质证书/2.市政资质.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/6.19商务文件023-2025年度日常运维CCTV监测、疏通服务类项目6.19.docx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +49,19 @@
   </component>
   <component name="ProjectId" id="2RcfwpTbDttTvm3olULMUHpbEcS" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/justpyqt/dialog_with_input" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\justpyqt\dialog_with_input" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\PyQTProcess_testing" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\read_doc_to_json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\from_excel_to_json" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\directory\软件 安排 编辑\1.人员证书\市政工程师" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,7 +76,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.terminal_inppyqt">
+  <component name="RunManager" selected="Python.dig2_for_pass">
+    <configuration name="dig1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justpyqt/dialog_with_input" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justpyqt/dialog_with_input/dig1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dig2_for_pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justpyqt/dialog_with_input" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justpyqt/dialog_with_input/dig2_for_pass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="newindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,27 +132,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/newindow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pyqtapp1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/pyqtapp1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,41 +182,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trylogintoken" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/trylogintoken.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.trylogintoken" />
-      <item itemvalue="Python.pyqtapp1" />
       <item itemvalue="Python.newindow" />
       <item itemvalue="Python.qprocess1" />
       <item itemvalue="Python.terminal_inppyqt" />
+      <item itemvalue="Python.dig1" />
+      <item itemvalue="Python.dig2_for_pass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dig2_for_pass" />
+        <item itemvalue="Python.dig1" />
         <item itemvalue="Python.terminal_inppyqt" />
         <item itemvalue="Python.newindow" />
         <item itemvalue="Python.qprocess1" />
-        <item itemvalue="Python.trylogintoken" />
-        <item itemvalue="Python.pyqtapp1" />
       </list>
     </recent_temporary>
   </component>
