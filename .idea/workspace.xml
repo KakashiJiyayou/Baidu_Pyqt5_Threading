@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/Logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/dig1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/dig2_for_pass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/progressbar_testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource_ui2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/t.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testupload1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading_pyqt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threading_pyqt_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unzip2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unzip3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unzipfile1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unzipfile2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload_folder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/下水管道养护工/下水管道养护工 张明华.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/市政工程师/市政工程师 王占生.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/检测员/周浩.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/1.人员证书/检测员/郭凯.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/2.业绩/1.新进公司业务合同.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/2.业绩/2.广强公司 业务合同.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/3.资质证书/1.营业执照.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/3.资质证书/2.市政资质.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/软件 安排 编辑/6.19商务文件023-2025年度日常运维CCTV监测、疏通服务类项目6.19.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/justpyqt/dialog_with_input/dig2_for_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/justpyqt/dialog_with_input/dig2_for_pass.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qprocess1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="simple_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQTProcess_testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYQT_t/to_exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQTProcess_testing/qprocess1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYQT_t/to_exe/simple_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,18 +158,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.newindow" />
-      <item itemvalue="Python.qprocess1" />
       <item itemvalue="Python.terminal_inppyqt" />
       <item itemvalue="Python.dig1" />
       <item itemvalue="Python.dig2_for_pass" />
+      <item itemvalue="Python.simple_1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.dig2_for_pass" />
+        <item itemvalue="Python.simple_1" />
         <item itemvalue="Python.dig1" />
         <item itemvalue="Python.terminal_inppyqt" />
         <item itemvalue="Python.newindow" />
-        <item itemvalue="Python.qprocess1" />
       </list>
     </recent_temporary>
   </component>
