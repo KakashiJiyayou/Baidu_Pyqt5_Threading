@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_Json/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_Json/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_Json/read_dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subproccess/iput_token.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handling_large_file/temp/t.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subproccess/newindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/subproccess/newindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subproccess/trylogintoken.py" beforeDir="false" afterPath="$PROJECT_DIR$/subproccess/trylogintoken.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +28,20 @@
   </component>
   <component name="ProjectId" id="2RcfwpTbDttTvm3olULMUHpbEcS" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/handling_large_file/temp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Read_Json" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\Read_Json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file\temp" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\justpyqt\dialog_with_input" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\PyQTProcess_testing" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\read_doc_to_json" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,8 +56,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.unzip_large_file">
-    <configuration name="dig1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.read_dir">
+    <configuration name="get_bypy_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justpyqt/dialog_with_input" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justpyqt/dialog_with_input/dig1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/get_bypy_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dig2_for_pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iput_token" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justpyqt/dialog_with_input" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justpyqt/dialog_with_input/dig2_for_pass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/iput_token.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="newindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYQT_t/to_exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYQT_t/to_exe/simple_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/newindow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unzip_large_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_dir" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handling_large_file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Read_Json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read_Json/read_dir" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unzip_large_file2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="trylogintoken" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handling_large_file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handling_large_file/unzip_large_file2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/trylogintoken.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +163,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.dig1" />
-      <item itemvalue="Python.dig2_for_pass" />
-      <item itemvalue="Python.simple_1" />
-      <item itemvalue="Python.unzip_large_file" />
-      <item itemvalue="Python.unzip_large_file2" />
+      <item itemvalue="Python.newindow" />
+      <item itemvalue="Python.trylogintoken" />
+      <item itemvalue="Python.iput_token" />
+      <item itemvalue="Python.get_bypy_list" />
+      <item itemvalue="Python.read_dir" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.unzip_large_file" />
-        <item itemvalue="Python.unzip_large_file2" />
-        <item itemvalue="Python.dig2_for_pass" />
-        <item itemvalue="Python.simple_1" />
-        <item itemvalue="Python.dig1" />
+        <item itemvalue="Python.read_dir" />
+        <item itemvalue="Python.newindow" />
+        <item itemvalue="Python.get_bypy_list" />
+        <item itemvalue="Python.iput_token" />
+        <item itemvalue="Python.trylogintoken" />
       </list>
     </recent_temporary>
   </component>

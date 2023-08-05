@@ -1,0 +1,5 @@
+from Read_Json import database as DB
+
+dir_list = DB.get_dir_list( "" )
+
+print( dir_list )

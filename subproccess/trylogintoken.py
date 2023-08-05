@@ -23,7 +23,9 @@ from subprocess import Popen, CREATE_NEW_CONSOLE
 
 
 #
-proc   = subprocess.Popen([ "bypy", "list"],shell=False,creationflags=CREATE_NEW_CONSOLE, stdout=subprocess.PIPE,stdin=subprocess.PIPE,)
+# proc   = subprocess.Popen([ "bypy", "list"],shell=False,creationflags=CREATE_NEW_CONSOLE, stdout=subprocess.PIPE,stdin=subprocess.PIPE,)
+proc   = subprocess.Popen([ "bypy", "list"],shell=False, stdout=subprocess.PIPE,stdin=subprocess.PIPE,)
+
 
 def is_url( link ):
     if "https://openapi.baidu.com/oauth"in link:
