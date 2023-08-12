@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bypytest/DB/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bypytest/DB/running.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bypytest/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bypytest/module/database_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bypytest/module/dbman2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bypytest/module/dmng3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/dir_list_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dir_list.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dunamic_list3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dynamic_list1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dynamic_list2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/list4_perfect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/list5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamics_checkable/reordering_list1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/call_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/db_credential.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/get_database_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/insert2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/insert_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/mongo_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/ping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/show_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinydb12/running.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinydb12/runningdb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinydb12/testingrunningdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/module/runningdb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bypytest/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/bypytest/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +26,20 @@
   <component name="ProjectId" id="2RcfwpTbDttTvm3olULMUHpbEcS" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bypytest/DB" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bypytest/module" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\bypytest\module" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\bypytest\DB" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\Read_Json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file\temp" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\justpyqt\dialog_with_input" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
     </key>
   </component>
   <component name="RunDashboard">
