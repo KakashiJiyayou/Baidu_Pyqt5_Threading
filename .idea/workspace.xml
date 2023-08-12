@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Read_Json/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Read_Json/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Read_Json/read_dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subproccess/iput_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/DB/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/DB/running.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/module/database_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/module/dbman2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/module/dmng3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directory/dir_list_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dir_list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dunamic_list3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dynamic_list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/dynamic_list2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/list4_perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/list5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamics_checkable/reordering_list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/call_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/db_credential.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/get_database_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/insert2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/insert_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/mongo_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/ping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDB_Atlast/show_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinydb12/running.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinydb12/runningdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinydb12/testingrunningdb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subproccess/newindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/subproccess/newindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subproccess/trylogintoken.py" beforeDir="false" afterPath="$PROJECT_DIR$/subproccess/trylogintoken.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -28,20 +48,21 @@
   </component>
   <component name="ProjectId" id="2RcfwpTbDttTvm3olULMUHpbEcS" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Read_Json" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bypytest/DB" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\bypytest\DB" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\Read_Json" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file\temp" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\justpyqt\dialog_with_input" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\PyQTProcess_testing" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_dir">
-    <configuration name="get_bypy_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="database_management" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/get_bypy_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/module/database_management.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iput_token" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dbman2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/iput_token.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/module/dbman2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="newindow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dmng3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/newindow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/module/dmng3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_dir" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Read_Json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read_Json/read_dir" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trylogintoken" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testingrunningdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/subproccess" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tinydb12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subproccess/trylogintoken.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tinydb12/testingrunningdb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,19 +184,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.newindow" />
-      <item itemvalue="Python.trylogintoken" />
-      <item itemvalue="Python.iput_token" />
-      <item itemvalue="Python.get_bypy_list" />
-      <item itemvalue="Python.read_dir" />
+      <item itemvalue="Python.testingrunningdb" />
+      <item itemvalue="Python.database_management" />
+      <item itemvalue="Python.dbman2" />
+      <item itemvalue="Python.dmng3" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.read_dir" />
-        <item itemvalue="Python.newindow" />
-        <item itemvalue="Python.get_bypy_list" />
-        <item itemvalue="Python.iput_token" />
-        <item itemvalue="Python.trylogintoken" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.database_management" />
+        <item itemvalue="Python.dmng3" />
+        <item itemvalue="Python.dbman2" />
+        <item itemvalue="Python.testingrunningdb" />
       </list>
     </recent_temporary>
   </component>
