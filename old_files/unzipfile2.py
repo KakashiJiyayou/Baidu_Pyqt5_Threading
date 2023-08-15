@@ -7,4 +7,4 @@ from pyunpack import Archive
 # import sys
 # sys.set
 
-Archive(r'软件 安排 编辑.zip').extractall('./module/temp')
+Archive(r'软件 安排 编辑.zip').extractall('./module/temp01')

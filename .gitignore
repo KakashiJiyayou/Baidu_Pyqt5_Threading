@@ -1,2 +1,4 @@
 /handling_large_file/temp/
 /mongoDB_Atlast/get_database_info.py
+*.doc
+*.docx

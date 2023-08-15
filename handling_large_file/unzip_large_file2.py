@@ -1,6 +1,6 @@
 import zipfile, sys, os
 
-zip_file_path = ".\\temp\\软件编制 资料.zip"
+zip_file_path = ".\\temp01\\软件编制 资料.zip"
 
 zf = zipfile.ZipFile(zip_file_path )
 for m in zf.infolist():

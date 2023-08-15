@@ -2,7 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bypytest/command_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bypytest/module/comm2nd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/convert_doc/cnv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/convert_doc/cnv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/convert_doc/cnv3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/pywindoccc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/qwer1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/hmm_todoc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/merge_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/mt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/mt3_nice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/mt4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/my_own_way/read_from_doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/old/m1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/old/m1_simple_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/old/m3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/old/m4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handling_large_name/handname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinydb12/updatefuniing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinydb12/updatte_running.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handling_large_file/unzip_large_file2.py" beforeDir="false" afterPath="$PROJECT_DIR$/handling_large_file/unzip_large_file2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/unzip2.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzip2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/unzip3.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzip3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/unzipfile1.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzipfile1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old_files/unzipfile2.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzipfile2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,20 +64,23 @@
   <component name="ProjectId" id="2RcfwpTbDttTvm3olULMUHpbEcS" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mongoDB_Atlast" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/document_merger/doc_docx_merger/docx" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\mongoDB_Atlast" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\bypytest\module" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\bypytest\DB" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\Read_Json" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\handling_large_file\temp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\old" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\temp" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\docx_formatinng" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\convert_doc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -52,8 +95,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="database_management" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pywindoccc">
+    <configuration name="ddc_m2_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest/module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/module/database_management.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dbman2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ddc_m2_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest/module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/module/dbman2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dmng3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ddc_m3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest/module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/module/dmng3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pywindoccc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bypytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bypytest/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/pywindoccc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testingrunningdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qwer1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tinydb12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tinydb12/testingrunningdb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/qwer1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +202,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.testingrunningdb" />
-      <item itemvalue="Python.database_management" />
-      <item itemvalue="Python.dbman2" />
-      <item itemvalue="Python.dmng3" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.ddc_m2_02" />
+      <item itemvalue="Python.ddc_m2_01" />
+      <item itemvalue="Python.ddc_m3" />
+      <item itemvalue="Python.qwer1" />
+      <item itemvalue="Python.pywindoccc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.database_management" />
-        <item itemvalue="Python.dmng3" />
-        <item itemvalue="Python.dbman2" />
-        <item itemvalue="Python.testingrunningdb" />
+        <item itemvalue="Python.pywindoccc" />
+        <item itemvalue="Python.qwer1" />
+        <item itemvalue="Python.ddc_m3" />
+        <item itemvalue="Python.ddc_m2_01" />
+        <item itemvalue="Python.ddc_m2_02" />
       </list>
     </recent_temporary>
   </component>

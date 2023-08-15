@@ -15,7 +15,7 @@ import os
 #     rar.close()  
 
 
-# uncompress("E:\\Project\\\Job\\GQ\\Python\\Baidu_downlaod_upload\\test\\软件 安排 编辑.rar","./module/temp")
+# uncompress("E:\\Project\\\Job\\GQ\\Python\\Baidu_downlaod_upload\\test\\软件 安排 编辑.rar","./module/temp01")
 
 directory = os.getcwd()
 
@@ -23,4 +23,4 @@ print(directory)
 
 from unrar import rarfile
 file = rarfile.RarFile("E:\\Project\\\Job\\GQ\\Python\\Baidu_downlaod_upload\\test\\testing.rar")  #这里写入的是需要解压的文件，别忘了加路径
-file.extractall("./module/temp")  #这里写入的是你想要解压到的文件夹
+file.extractall("./module/temp01")  #这里写入的是你想要解压到的文件夹

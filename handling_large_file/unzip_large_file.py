@@ -14,7 +14,7 @@ import locale
 
 
 root_path = os.path.dirname(__file__)
-path = os.path.join ( root_path, "temp" )
+path = os.path.join ( root_path, "temp01" )
 
 shutil.rmtree ( path )
 os.mkdir(path)

@@ -7,4 +7,4 @@ from pyunpack import Archive
 # import sys
 # sys.set
 
-Archive(r'testing.rar').extractall('./module/temp')
+Archive(r'testing.rar').extractall('./module/temp01')

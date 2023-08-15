@@ -4,7 +4,7 @@
 # zip_file = zipfile.ZipFile("软件 安排 编辑.rar")
 
 # # 指定解压后的目录路径
-# extract_path = './module/temp'
+# extract_path = './module/temp01'
 
 # # 解压全部文件到指定目录
 # zip_file.extractall(extract_path)
