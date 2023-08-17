@@ -2,53 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935c25f4-fc7c-4897-bad2-29416cca1942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bypytest/command_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bypytest/module/comm2nd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/convert_doc/cnv1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/convert_doc/cnv2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/convert_doc/cnv3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/pywindoccc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/qwer1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/docx_formatinng/dcx5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/hmm_todoc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/merge_temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/mt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/mt3_nice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/from_ddc1/mt4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/my_own_way/read_from_doc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/old/m1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/old/m1_simple_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/old/m3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document_merger/old/m4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handling_large_name/handname.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinydb12/updatefuniing.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinydb12/updatte_running.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/directory/change_path_extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/doxc11_best_for_dox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/doxc22x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/pywi_2_best.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/add_image_to_Doc/adding_img1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/add_image_to_Doc/adding_img2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/adding_image_to_doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/html_to_doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/libre/copy_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/libre/lbre_doc_to_html1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/manupulate_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/manupulate_html2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/merging_htmls/m1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/merging_htmls/m2_imgs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/doc_to_html/stack1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/html_to_docx/stack1_pypandack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/libre/dc_to_dx1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/libre/lbre_doxc22x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/libre/merging_docs_workd_great_for_doc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/pdft_To_doc/Output.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/pdft_To_doc/fisrtp_to_d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/ppydocxx/l1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/remove_image/test1_remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/merge_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/Bloomsy site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/cheese.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/eggtoast.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/golden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/one.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/pastry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/toast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/toast2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/two5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/module/temp/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document_merger/xfinal_version/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_url/test_url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/handling_large_file/unzip_large_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handling_large_file/unzip_large_file2.py" beforeDir="false" afterPath="$PROJECT_DIR$/handling_large_file/unzip_large_file2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_files/unzip2.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzip2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_files/unzip3.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzip3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_files/unzipfile1.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzipfile1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old_files/unzipfile2.py" beforeDir="false" afterPath="$PROJECT_DIR$/old_files/unzipfile2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc3.py" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/docx/BildschirmÂ_foto 2022-11-16 um 16.12.00.png" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/libre/docx/BildschirmÂ_foto 2022-11-16 um 16.12.00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/docx/During 4th and 5th Competition.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/libre/docx/During 4th and 5th Competition.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/docx/InternationalCompetition in Wuxi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/libre/docx/InternationalCompetition in Wuxi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/docx/Published Paper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/libre/docx/Published Paper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/docx/screen v6.png" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/libre/docx/screen v6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/pywindoccc.py" beforeDir="false" afterPath="$PROJECT_DIR$/document_merger/doc_docx_merger/pywindoccc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document_merger/doc_docx_merger/temp/~WRD2529.tmp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="finally working">
+      <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre" module="test" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp" module="test" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/big.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/CCTV.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/doc3.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/2form2023.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/CCTV检测文件5页.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/安全员于娜娜0725.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/下水管道养护工 张明华.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/CCTV检测技术文件10页.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/CCTV_html_e9d6d2981f0bfe06.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/doc3_html_3f0daef2e39688c6.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_1f046b3e6cea84c1.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_2b55df80d30b6887.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_324481c8742cdb2e.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_3bc94775365d20f5.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_9dcbe580194effcf.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_a3f9212436465e32.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_a8cd2dc058260bbe.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_d39f5eec1069ab91.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/tempx1_html_d6b4739058b36d86.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/安全员于娜娜0725_html_6ba3bf5be961e46e.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/下水管道养护工 张明华_html_7382275eebd4951a.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/temp/上虞区农村生活污水处理设施运维服务项目（三年）招标文件电子招标定稿(1).html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/copy_file.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image" module="test" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/CCTV_html_e9d6d2981f0bfe06.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/doc3_html_3f0daef2e39688c6.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_1f046b3e6cea84c1.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_2b55df80d30b6887.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_324481c8742cdb2e.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_3bc94775365d20f5.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_9dcbe580194effcf.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_a3f9212436465e32.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_a8cd2dc058260bbe.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_d39f5eec1069ab91.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/tempx1_html_d6b4739058b36d86.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/安全员于娜娜0725_html_6ba3bf5be961e46e.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/libre_html_image/下水管道养护工 张明华_html_7382275eebd4951a.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/document_merger/doc_to_html/libre/lbre_doc_to_html1.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,23 +118,23 @@
   <component name="ProjectId" id="2RcfwpTbDttTvm3olULMUHpbEcS" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/document_merger/doc_docx_merger/docx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/document_merger/xfinal_version/module/temp" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\xfinal_version\module\temp" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\remove_image" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_to_html" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_to_html\add_image_to_Doc" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_to_html\html_to_docx" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\xfinal_version\module" />
+      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\libre" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\old" />
       <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\test\read_doc_to_json" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\temp" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\docx_formatinng" />
-      <recent name="E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\convert_doc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -95,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pywindoccc">
-    <configuration name="ddc_m2_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_main">
+    <configuration name="change_path_extension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/directory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/directory/change_path_extension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ddc_m2_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="m2_imgs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_to_html/merging_htmls" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m2_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_to_html/merging_htmls/m2_imgs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ddc_m3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="merge_docs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/xfinal_version/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/ddc_m3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/xfinal_version/module/merge_docs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pywindoccc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/xfinal_version" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/pywindoccc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/xfinal_version/test_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qwer1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/document_merger/doc_docx_merger" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_url" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/document_merger/doc_docx_merger/qwer1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_url/test_url.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,19 +256,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ddc_m2_02" />
-      <item itemvalue="Python.ddc_m2_01" />
-      <item itemvalue="Python.ddc_m3" />
-      <item itemvalue="Python.qwer1" />
-      <item itemvalue="Python.pywindoccc" />
+      <item itemvalue="Python.m2_imgs" />
+      <item itemvalue="Python.change_path_extension" />
+      <item itemvalue="Python.test_main" />
+      <item itemvalue="Python.merge_docs" />
+      <item itemvalue="Python.test_url" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pywindoccc" />
-        <item itemvalue="Python.qwer1" />
-        <item itemvalue="Python.ddc_m3" />
-        <item itemvalue="Python.ddc_m2_01" />
-        <item itemvalue="Python.ddc_m2_02" />
+        <item itemvalue="Python.test_main" />
+        <item itemvalue="Python.merge_docs" />
+        <item itemvalue="Python.test_url" />
+        <item itemvalue="Python.change_path_extension" />
+        <item itemvalue="Python.m2_imgs" />
       </list>
     </recent_temporary>
   </component>

@@ -8,7 +8,7 @@ def extract_and_replace_images(doc, images, merged_doc):
     for paragraph in doc.paragraphs:
         new_paragraph = merged_doc.add_paragraph()  # Create a new paragraph in the merged document
         for run in paragraph.runs:
-            new_run = new_paragraph.add_run(run.text)  # Add a new run to the new paragraph
+            new_run = new_paragraph.add_run(run.text )  # Add a new run to the new paragraph
 
             for rel, image_path in images.items():
                 placeholder = f"IMAGE_SOURCEWILLBEHERE:{rel}"
@@ -157,10 +157,6 @@ def merge_docx_files(doc_paths, output_path, index):
 
 # List of input processed DOCX files
 processed_docx_paths = [
-    r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\temp1.docx',
-    r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\temp2.docx',
-    r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\temp3.docx',
-    r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\temp4.docx',
     r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\tempx1.docx',
     r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\tempx2.docx',
     r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\docx\tempx3.docx',
@@ -172,6 +168,6 @@ processed_docx_paths = [
 merged_output_path = r'E:\Project\Job\GQ\Python\Baidu_downlaod_upload\Baidu_Pyqt5_Threading\document_merger\doc_docx_merger\temp'
 
 
-index = 22
+index = 8161
 # Call the function to merge the processed documents
 merge_docx_files(processed_docx_paths, merged_output_path, index)
